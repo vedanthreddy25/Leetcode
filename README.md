@@ -1,6 +1,6 @@
 # 🗃️ 30-Day SQL LeetCode Challenge 💻
 
-Welcome to my **30-day SQL challenge**! 🚀  
+Welcome to my **30-day SQL challenge**!   
 The goal of this challenge is to solve one SQL question from [LeetCode](https://leetcode.com/problemset/database/) every day, focusing on interview-relevant problems that test knowledge in **SELECT**, **JOIN**, **GROUP BY**, **RANK**, **subqueries**, and more.
 
 This is my personal journey to stay accountable and consistently upskill in SQL — a crucial skill for data science, analytics, and backend engineering roles.
