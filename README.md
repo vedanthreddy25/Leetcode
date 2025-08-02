@@ -19,8 +19,8 @@ This is my personal journey to stay accountable and consistently upskill in SQL 
 
 | Day | Problem ID | Title                                              | Difficulty | LeetCode Link                                                                 |
 |-----|------------|----------------------------------------------------|------------|-------------------------------------------------------------------------------|
-| 01  | 1407       | Top Travellers                                     | Easy       | [🔗 Link](https://leetcode.com/problems/top-travellers/)                      |
-| 02  | 262        | Trips and Users                                    | Hard       | [🔗 Link](https://leetcode.com/problems/trips-and-users/)                     |
+| 01  | 1729       | Find Followers Count                               | Easy       | [🔗 Link](https://leetcode.com/problems/find-followers-count/)                |
+| 02  | 1741       | Find Total Time Spent by Each Employee             | Easy       | [🔗 Link](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) |
 | 03  | 1527       | Patients With a Condition                          | Easy       | [🔗 Link](https://leetcode.com/problems/patients-with-a-condition/)           |
 | 04  | 1667       | Fix Names in a Table                               | Easy       | [🔗 Link](https://leetcode.com/problems/fix-names-in-a-table/)                |
 | 05  | 1179       | Reformat Department Table                          | Easy       | [🔗 Link](https://leetcode.com/problems/reformat-department-table/)           |
@@ -47,8 +47,8 @@ This is my personal journey to stay accountable and consistently upskill in SQL 
 | 26  | 586        | Customer Placing the Largest Number of Orders      | Easy       | [🔗 Link](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) |
 | 27  | 595        | Big Countries                                      | Easy       | [🔗 Link](https://leetcode.com/problems/big-countries/)                       |
 | 28  | 596        | Classes More Than 5 Students                       | Easy       | [🔗 Link](https://leetcode.com/problems/classes-more-than-5-students/)        |
-| 29  | 1729       | Find Followers Count                               | Easy       | [🔗 Link](https://leetcode.com/problems/find-followers-count/)                |
-| 30  | 1741       | Find Total Time Spent by Each Employee             | Easy       | [🔗 Link](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) |
+| 29  | 1407       | Top Travellers                                     | Easy       | [🔗 Link](https://leetcode.com/problems/top-travellers/)                      |
+| 30  | 262        | Trips and Users                                    | Hard       | [🔗 Link](https://leetcode.com/problems/trips-and-users/)                     |
 
 
 ---
